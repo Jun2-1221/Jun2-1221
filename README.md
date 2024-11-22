@@ -1,24 +1,52 @@
-# 🌟 About Me
+# 🌌 Welcome to My Creative Space
 
-**University:** Chung-Ang University  
-**Major:** Art & Technology  
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourGitHubUsername&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
-**Interests:**
-- 💻 Programming: C#, C++
-- 🎨 Adobe: Photoshop, Illustrator
+## 🎨 Who Am I?
+Hi! I’m a **Chung-Ang University** student, majoring in **Art & Technology**. 
 
-**gmail:** sjh051221@gmail.com
+> _"Something New, Something Different."_  
 
 
-  <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-  </div>
-	
-	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjh051221@gmail.com)](mailto:sjh051221@gmail.com)
-	
+## ⚡ My Tech Toolbox
+**Programming Languages**: C#, C++  
+**Design Tools**: Photoshop, Illustrator  
+**Frameworks**: Unity, Unreal Engine
+
+## 🔥 Featured Projects
+### 🖼️ **Digital Art Showcase**
+It's a dynamic digital showcase that displays the works I made during my college life.
+
+**Tech**: HTML
+
+### 🎮 **Indie Games**
+I am working on various 2D pixel Unity games
+
+**Tech**: C#, Unity, Photoshop
+
+## 📫 Let's Connect
+- 📧 **Email**: [sjh051221@gmail.com](mailto:sjh051221@gmail.com)
+
+<div align="center">
+
+  [![Gmail Badge](https://img.shields.io/badge/Email-Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjh051221@gmail.com)
+  
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+</div>
+
+## 🤝 Collaboration
+I'm always open to new opportunities and collaborations! If you have an exciting project or idea, feel free to connect with me. Let's create something amazing together!
 
 <!--
 **Jun2-1221/Jun2-1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
