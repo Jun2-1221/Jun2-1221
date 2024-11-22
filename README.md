@@ -5,7 +5,10 @@
 
 **Interests:**
 - 💻 Programming: C#, C++
-- 🎨 Adobe Suite: Photoshop, Illustrator
+- 🎨 Adobe: Photoshop, Illustrator
+
+**gmail:** sjh051221@gmail.com
+
 
   <div align=center>
 	
